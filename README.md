@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mostafa Apozena
+#  Hi, I'm Mostafa Apozena
 
 ### Software Engineer | Web, Mobile & Business Systems
 
@@ -10,18 +10,18 @@ I work with **custom code, WordPress, Shopify, and AI-assisted development** to 
 
 ---
 
-## 🚀 What I Build
+##  What I Build
 
-- 🌐 **Websites & Web Applications** — modern, responsive, performance-focused digital experiences
-- 🛒 **E-commerce Solutions** — online stores built to support sales and business growth
-- 📱 **Mobile Applications** — practical mobile experiences for customers and internal teams
-- ⚙️ **Business Systems** — CRM, ERP, dashboards, data management, and workflow solutions
-- 🤖 **AI-Assisted Development** — using modern AI workflows to accelerate product development
-- 📈 **Digital Solutions for Growth** — technology designed around real business goals, not just features
+-  **Websites & Web Applications** — modern, responsive, performance-focused digital experiences
+-  **E-commerce Solutions** — online stores built to support sales and business growth
+-  **Mobile Applications** — practical mobile experiences for customers and internal teams
+-  **Business Systems** — CRM, ERP, dashboards, data management, and workflow solutions
+-  **AI-Assisted Development** — using modern AI workflows to accelerate product development
+-  **Digital Solutions for Growth** — technology designed around real business goals, not just features
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
