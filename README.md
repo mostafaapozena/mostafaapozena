@@ -75,7 +75,7 @@ I don't just build software — I build solutions around business goals.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mostafaapo2ina)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mostafa.apozina)
@@ -84,7 +84,7 @@ I don't just build software — I build solutions around business goals.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=mostafaapozena&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
