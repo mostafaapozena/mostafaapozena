@@ -62,12 +62,12 @@ export default function Hero() {
                 {profile.role}
               </p>
               <p className="hero-fade text-sm text-muted">{profile.location}</p>
-              <a
+              {profile.cvUrl && (<a
                 href={profile.cvUrl}
                 className="hero-fade mt-6 inline-flex items-center gap-2 rounded-full border border-accent px-6 py-2.5 text-xs uppercase tracking-[0.2em] transition-colors hover:bg-accent"
               >
                 Download CV <span aria-hidden>↓</span>
-              </a>
+              </a>)}
             </div>
           </div>
         </div>

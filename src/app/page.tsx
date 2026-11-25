@@ -7,6 +7,7 @@ import Stack from "@/components/Stack";
 import ProjectsList from "@/components/ProjectsList";
 import Testimonials from "@/components/Testimonials";
 import Contact from "@/components/Contact";
+import { testimonials } from "@/data/portfolio";
 
 export default function Home() {
   return (
@@ -18,7 +19,7 @@ export default function Home() {
       <FeaturedProjects />
       <Stack />
       <ProjectsList />
-      <Testimonials />
+      {testimonials.length > 0 && <Testimonials />}
       <Contact />
     </main>
   );

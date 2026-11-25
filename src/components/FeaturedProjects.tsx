@@ -37,7 +37,7 @@ export default function FeaturedProjects() {
         <Reveal>
           <p className="font-display text-6xl font-light text-muted md:text-8xl">({featured.length})</p>
           <h2 className="mt-4 font-display text-4xl font-bold uppercase md:text-6xl">Featured Work</h2>
-          <p className="mx-auto mt-4 max-w-md text-muted">Featured client projects that have been meticulously crafted with passion and purpose.</p>
+          <p className="mx-auto mt-4 max-w-md text-muted">Selected client projects, crafted with passion and purpose.</p>
         </Reveal>
       </div>
 
